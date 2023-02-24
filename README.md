@@ -200,10 +200,13 @@
 
 </details>
 
-<details>
-<summary> <h1> Flipkart </h1> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.png" align="right" width="15%" alt="microsoft logo" /> </summary>
 
-## `Day 16 - 21`
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<details>
+<summary> <h1> Flipkart </h1> <img src="https://1000logos.net/wp-content/uploads/2021/02/Flipkart-logo-768x432.png" align="right" width="15%" alt="microsoft logo" /> </summary>
+
+## `Day 16 - 20`
 
 <details> <summary> <h2> Day 16 </h2> </summary>
 
@@ -212,6 +215,164 @@
 | 1   | ⬜ | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution]() |
 | 2   | ⬜ | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [Solution]() |
 | 3   | ⬜ | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 17 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [Solution]() |
+| 2   | ⬜ | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [Solution]() |
+| 3   | ⬜ | [Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 18 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Solution]() |
+| 2   | ⬜ | [Closest Primes in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [Solution]() |
+| 3   | ⬜ | [Top K frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 19 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [Solution]() |
+| 2   | ⬜ | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [Solution]() |
+| 3   | ⬜ | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 20 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Maximum Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution]() |
+| 2   | ⬜ | [Customer Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution]() |
+| 3   | ⬜ | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution]() |
+
+</details>
+
+</details>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<details>
+<summary> <h1> Google </h1> <img src="https://logos-world.net/wp-content/uploads/2020/09/Google-Logo-700x394.png" align="right" width="15%" alt="google logo" /> </summary>
+
+## `Day 21 - 25`
+
+<details> <summary> <h2> Day 21 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Solution]() |
+| 2   | ⬜ | [Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | [Solution]() |
+| 3   | ⬜ | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 22 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Solution]() |
+| 2   | ⬜ | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [Solution]() |
+| 3   | ⬜ | [Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 23 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [Solution]() |
+| 2   | ⬜ | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [Solution]() |
+| 3   | ⬜ | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 24 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Solution]() |
+| 2   | ⬜ | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [Solution]() |
+| 3   | ⬜ | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 25 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Solution]() |
+| 2   | ⬜ | [Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | [Solution]() |
+| 3   | ⬜ | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [Solution]() |
+
+</details>
+
+</details>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<details>
+<summary> <h1> Amazon </h1> <img src="https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png" align="right" width="15%" alt="google logo" /> </summary>
+
+## `Day 26 - 30`
+
+<details> <summary> <h2> Day 26 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Solution]() |
+| 2   | ⬜ | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Solution]() |
+| 3   | ⬜ | [Split a String Into The Max Number Of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 27 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [Solution]() |
+| 2   | ⬜ | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Solution]() |
+| 3   | ⬜ | [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 28 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [Solution]() |
+| 2   | ⬜ | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [Solution]() |
+| 3   | ⬜ | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 29 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Number of matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution]() |
+| 2   | ⬜ | [Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | [Solution]() |
+| 3   | ⬜ | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution]() |
+
+</details>
+
+<details> <summary> <h2> Day 30 </h2> </summary>
+
+| Problem No. | Check | Problem | Solution  |
+| :---: | :--------:  | :---------: | :---------: |
+| 1   | ⬜ | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution]() |
+| 2   | ⬜ | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [Solution]() |
+| 3   | ⬜ | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution]() |
 
 </details>
 
